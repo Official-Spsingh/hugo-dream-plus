@@ -43,7 +43,7 @@ If you have a question, then you may ask it through the [issue tracker](https://
 * [Hugo](https://gohugo.io/documentation/)
 * HTML, CSS and JS
 
-> I personally prefer to avoid JS whenever there's an alternative present, due to performance reasons. Therefore JS isn't as crucial to this project as the former ones.
+> I personally prefer to avoid JavaScript whenever there's an alternative present, due to performance reasons. Therefore JS isn't as crucial to this project as the former ones.
 
 ## How can I contribute?
 ### Reporting Bugs
